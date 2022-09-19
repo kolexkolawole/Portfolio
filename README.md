@@ -6,9 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kolexkolawole&label=Profile%20views&color=0e75b6&style=flat" alt="kolexkolawole" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kolexkolawole" alt="kolexkolawole" /></a> </p>
-<p align="left"> <a href="https://github.com/kolexkolawole?achievement=quickdraw&tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=kolexkolawole" alt="kolexkolawole" /></a> </p>
-<p align="left"> <a href="https://github.com/kolexkolawole?achievement=yolo&tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=kolexkolawole" alt="kolexkolawole" /></a> </p>
+
 <p align="left"> <a href="https://github.com/kolexkolawole?achievement=pull-shark&tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=kolexkolawole" alt="kolexkolawole" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kolexkolawole" target="blank"><img src="https://img.shields.io/twitter/follow/kolexkolawole?logo=twitter&style=for-the-badge%22%20alt=%22kolexkolawole%22%20/%3E%3C/a%3E%20%3C/p%3E
