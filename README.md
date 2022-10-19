@@ -16,13 +16,14 @@
 # ABOUT KOLEX
 <h3 align="center">
 👋 Hi, I’m @kolexkolawole
-🔭 A Computer Engineer (BSC/comp.engr)
+🔭 A Computer Engineer (BSC/comp.engr)  <br>
 👀 I’m currently working on being **Full-Stack software development** And a **Certified Software Engineer**
 🌱 I’m currently learning Coding and Python programming language.
-💞️ I’m looking to collaborate on Project design development, Web designs, Graphics Designs and some other coding/programming tasks.
-📫 How to reach me: Email me at **kolexkolawole@gmail.com**
+💞️ I’m looking to collaborate on Project design development, Web designs, Graphics Designs and some other coding/programming tasks. <br>
+📫 How to reach me: Email me at **kolexkolawole@gmail.com** <br>
 💞️ I have completed a project design on ANIMAL DETECTION SYSTEM with working codes to test and run on a prototype devices like (microcontroller-RASPBERRY PI 4), animals detected include : elephant, hen, cow, horse, dog, birds, etc and also gives report of each detected animal and alarm to repel it away. looking forward to next level👀.
    On another study about database now.
+   <br>
 - ⚡ Fun fact **I am a Gamer (Adventures/Arcades)**
 </h3>
 
