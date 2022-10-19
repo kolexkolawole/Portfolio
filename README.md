@@ -11,7 +11,8 @@
 
 <p align="left"> <a href="https://twitter.com/kolexkolawole" target="blank"><img src="https://img.shields.io/twitter/follow/kolexkolawole?logo=twitter&style=for-the-badge%22%20alt=%22kolexkolawole%22%20/%3E%3C/a%3E%20%3C/p%3E
 
-
+<form>
+<legend>
 # KOLEX
 # ABOUT KOLEX
 <h3 align="center">
@@ -27,6 +28,12 @@
 - ⚡ Fun fact **I am a Gamer (Adventures/Arcades)**
 </h3>
 <br>
+
+<\legend>
+<\form>
+
+
+
 <h3 align="left">Connect with me on any social media platform with the name **kolexkolawole**:</h3>
 <p align="left">
 <a href="https://twitter.com/kolexkolawole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kolexkolawole" height="30" width="40" /></a>
