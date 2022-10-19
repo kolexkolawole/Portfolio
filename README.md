@@ -17,16 +17,16 @@
 <h3 align="center">
 👋 Hi, I’m @kolexkolawole
 🔭 A Computer Engineer (BSC/comp.engr)  <br>
-👀 I’m currently working on being **Full-Stack software development** And a **Certified Software Engineer**
-🌱 I’m currently learning Coding and Python programming language.
+👀 I’m currently working on being **Full-Stack software development** And a **Certified Software Engineer** <br>
+🌱 I’m currently learning Coding and Python programming language. <br>
 💞️ I’m looking to collaborate on Project design development, Web designs, Graphics Designs and some other coding/programming tasks. <br>
 📫 How to reach me: Email me at **kolexkolawole@gmail.com** <br>
-💞️ I have completed a project design on ANIMAL DETECTION SYSTEM with working codes to test and run on a prototype devices like (microcontroller-RASPBERRY PI 4), animals detected include : elephant, hen, cow, horse, dog, birds, etc and also gives report of each detected animal and alarm to repel it away. looking forward to next level👀.
+💞️ I have completed a project design on ANIMAL DETECTION SYSTEM with working codes to test and run on a prototype devices like (microcontroller-RASPBERRY PI 4), animals detected include : elephant, hen, cow, horse, dog, birds, etc and also gives report of each detected animal and alarm to repel it away. looking forward to next level👀.  <br>
    On another study about database now.
    <br>
 - ⚡ Fun fact **I am a Gamer (Adventures/Arcades)**
 </h3>
-
+<br>
 <h3 align="left">Connect with me on any social media platform with the name **kolexkolawole**:</h3>
 <p align="left">
 <a href="https://twitter.com/kolexkolawole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kolexkolawole" height="30" width="40" /></a>
